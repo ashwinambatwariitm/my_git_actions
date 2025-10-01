@@ -7,5 +7,5 @@ def bye():
 
 
 # Simply call the function
-hello() # Output: hi
-bye()   # Output: bye
+hello()  # Output: hi
+bye()  # Output: bye
